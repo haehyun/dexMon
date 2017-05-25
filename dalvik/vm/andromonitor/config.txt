@@ -1,0 +1,8 @@
+# config.txt
+# base /data/data/andromonitor
+packagename=
+# monitormode 1 Full
+# monitormode 2 Class
+# monitormode 3 Method
+# monitormode 4 API Call
+monitormode=

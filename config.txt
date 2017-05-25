@@ -1,0 +1,15 @@
+# config.txt
+# base = /data/andromonitor/
+packageName=com.chase.sig.android
+# monitormode 1 Full
+# monitormode 2 Class
+# monitormode 3 Method
+monitorMode=2
+threadNumber=0
+classDescriptor=Lcom/a/a
+methodName=a
+methodDescriptor=()V
+# on / off
+extractFile=off
+extractParam=off
+extractInvokeOnly=on
