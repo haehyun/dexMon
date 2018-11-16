@@ -4,7 +4,7 @@ Paper: link will appear soon.
 
 ## Summary
 
-- This repository contains DexMonitor modified Dalvik VM. 
+- This repository contains DexMonitor modified Dalvik VM a.k.a AndroMon. 
 - You can trace dalvik bytecode and extract dynamically loaded executables.
 - For more details, please refere to the paper.
 
