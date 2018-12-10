@@ -1,6 +1,6 @@
 # DexMonitor: Dynamically Analyzing and Monitoring Obfuscated Android Applications
 
-Paper: link will appear soon.
+Paper: https://haehyun.github.io/papers/dexMon-access18.pdf
 
 ## Summary
 
@@ -15,9 +15,8 @@ Paper: link will appear soon.
   title     = {{Dynamically Analyzing and Monitoring Obfuscated Android Applications},
   author    = {Haehyun Cho, Jeong Hyun Yi, and Gail-Joon Ahn},
   journal   = {IEEE Access},
-	volume    = {0},
-	number    = {0},
-	pages     = {00--00},
+	volume    = {6},
+	pages     = {71229--71240},
 	year      = 2018,
 	publisher = {IEEE}
 }
